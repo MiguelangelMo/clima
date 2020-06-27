@@ -1,0 +1,11 @@
+#container{
+    border: 1px solid silver;
+    padding: .4em;
+}
+
+.lista{
+    width: 50%;
+    position: relative;
+    size: 1em;
+    color: black;
+}

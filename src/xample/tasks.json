@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "task": "Lavar los platos",
+        "description": "Hechar javon y agua",
+        "status": false
+    },
+    {
+        "id": 1,
+        "task": "Lipiar la casa",
+        "description": "Cada uno de los cuarto limpiar",
+        "status": true
+    },
+    {
+        "id": 2,
+        "task": "Sacar la basura",
+        "description": "Cada uno de los sacos de basura hay que sacarlos",
+        "status": false
+    },
+    {
+        "id": 3,
+        "task": "Lavar el auto",
+        "description": "Restregar el auto",
+        "status": true
+    }
+]
